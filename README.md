@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sertaoboy&label=Profile%20views&color=0e75b6&style=flat" alt="sertaoboy" /> </p><!--título-->
+<!--título-->
 <img align="right" width="425" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 <div id="user-content-toc">
   <ul align="center">
