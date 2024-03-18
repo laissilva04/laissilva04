@@ -20,9 +20,13 @@
 
 
 
-
+<br>
+<!-- GithubStats -->
 <!-- GithubStats -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laissilva04&show_icons=true&theme=github_dark)](https://github.com/laissilva04/github-readme-stats)
+![Lais GitHub stats](https://github-readme-stats.vercel.app/api?username=laissilva04&show_icons=true&theme=github_dark)
 <!-- Portfolio -->
 
 
