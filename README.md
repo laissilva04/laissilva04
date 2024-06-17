@@ -21,8 +21,7 @@ Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
 <div align="">
   
 [![Gmail](https://img.shields.io/badge/-Gmail-%575fcf?style=for-the-badge&logo=gmail&logoColor=575fcf)](mailto:laissilva@edu.unifor.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%575fcf?style=for-the-badge&logo=linkedin&logoColor=575fcf)](https://www.linkedin.com/in/lais-barbosa/](https://www.linkedin.com/in/lais-barbosa-871678266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%575fcf?style=for-the-badge&logo=linkedin&logoColor=575fcf)](https://www.linkedin.com/in/lais-barbosa/)
 </p>
 
 <!-- Dropdown -->
