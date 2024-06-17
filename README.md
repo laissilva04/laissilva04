@@ -40,7 +40,7 @@ Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,java,figma,github,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,java,figma,github&theme=dark" />
   </a>
 </p>
 
