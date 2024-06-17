@@ -12,7 +12,7 @@
   - 🌱 Atualmente estou estudando Desenvolvimento e Análise de Software na Universidade de Fortaleza, Brasil. <img align="center" alt="html5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png" />
 
   - 👩‍💻 Atualmente trabalho na Fiibo com Qualidade de Software, QA. =)
-  - - 📫 Como chegar até mim *lais2209la@gmail.com*
+  - - 📫 Como chegar até mim *laissilva@edu.unifor.br*
 </p>
 
 <!-- Dropdown -->
