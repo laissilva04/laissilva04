@@ -4,10 +4,8 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-
 <!-- Presentation -->
 <p>
-
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=verdana&size=29&duration=3500&pause=1000&color=E2FDFF&random=false&width=435&lines=Ol%C3%A1!+eu+sou+Lais!;QA+e+Front-end+Development)](https://git.io/typing-svg)
 
