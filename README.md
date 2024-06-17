@@ -39,7 +39,7 @@ Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
 
 
 <p align="center">
-  <a href="(http://linkedin.com/in/lais-barbosa-871678266/)">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,java,figma,github&theme=dark" />
   </a>
 </p>
