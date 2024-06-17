@@ -7,12 +7,21 @@
 
 <!-- Presentation -->
 <p>
+
   
-  Olá 👋, Eu sou Laís! Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=verdana&size=29&duration=2500&pause=1000&color=E2FDFF&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+eu+sou+Lais!;QA+e+Front-end+Development)](https://git.io/typing-svg)
+
+Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
   - 🌱 Atualmente estou estudando Desenvolvimento e Análise de Software na Universidade de Fortaleza, Brasil. <img align="center" alt="html5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png" />
 
   - 👩‍💻 Atualmente trabalho na Fiibo com Qualidade de Software, QA. =)
-  - - 📫 Como chegar até mim *laissilva@edu.unifor.br*
+
+<br>
+<div align="">
+  
+[![Gmail](https://img.shields.io/badge/-Gmail-%575fcf?style=for-the-badge&logo=gmail&logoColor=575fcf)](mailto:laissilva@edu.unifor.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%575fcf?style=for-the-badge&logo=linkedin&logoColor=575fcf)]([https://www.linkedin.com/in/lais-barbosa/](https://www.linkedin.com/in/lais-barbosa-871678266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+</div>
 </p>
 
 <!-- Dropdown -->
