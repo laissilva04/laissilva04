@@ -8,12 +8,11 @@
 <!-- Presentation -->
 <p>
   
-  Hi 👋, I'm Lais! A student and IT enthusiast from Brazil. Greetings and welcome to my github profile!
+  Olá 👋, Eu sou Laís! Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
+  - 🌱 Atualmente estou estudando Desenvolvimento e Análise de Software na Universidade de Fortaleza, Brasil. <img align="center" alt="html5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png" />
 
-  - 🌱 I’m currently studying Development and Software Analysis at University of Fortaleza, Brasil. <img align="center" alt="html5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png" />
-
-  - 👩‍💻 I currently work at Fiibo with Software Quality QA =)
-  - - 📫 How to reach me *lais2209la@gmail.com*
+  - 👩‍💻 Atualmente trabalho na Fiibo com Qualidade de Software, QA. =)
+  - - 📫 Como chegar até mim *lais2209la@gmail.com*
 </p>
 
 <!-- Dropdown -->
