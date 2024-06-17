@@ -1,5 +1,5 @@
 <!--título-->
-<img align="right" width="425" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
