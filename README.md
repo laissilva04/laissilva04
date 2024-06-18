@@ -9,8 +9,12 @@
 </div>
 <!-- Presentation -->
 <p>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=verdana&size=29&duration=3500&pause=1000&color=0a4c85&center=false&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Lais!;QA+e+Front-end+Developer!)](https://git.io/typing-svg)
+ <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=verdana&size=29&duration=3500&pause=1000&color=0a4c85&center=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Lais!;QA+e+Front-end+Developer!)](https://git.io/typing-svg)
+
+</div>
+
 
 Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
   - 🌱 Atualmente estou estudando Desenvolvimento e Análise de Software na Universidade de Fortaleza, Brasil. <img align="center" alt="html5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png" />
