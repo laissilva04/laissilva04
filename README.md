@@ -22,11 +22,13 @@ Estudante e entusiasta de TI. Saudações e bem vindo ao meu perfil no github!
   - 👩‍💻 Atualmente trabalho na Fiibo com Qualidade de Software, QA. =)
 
 <br>
-<div align="">
-  
+<div align="center">
+
 [![Gmail](https://img.shields.io/badge/-Gmail-%575fcf?style=for-the-badge&logo=gmail&logoColor=0000CD)](mailto:laissilva@edu.unifor.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%575fcf?style=for-the-badge&logo=linkedin&logoColor=0000CD)](http://linkedin.com/in/lais-barbosa-871678266/)
-</p>
+
+</div>
+
 
 <!-- Dropdown -->
 
