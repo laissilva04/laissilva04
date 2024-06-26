@@ -11,7 +11,7 @@
 <p>
  <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=verdana&size=29&duration=3500&pause=1000&color=0a4c85&center=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Lais!;QA+e+Front-end+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=verdana&size=29&duration=3500&pause=1000&color=white&center=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Lais!;QA+e+Front-end+Developer!)](https://git.io/typing-svg)
 
 </div>
 
