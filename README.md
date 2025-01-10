@@ -25,7 +25,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](http://linkedin.com/in/lais-barbosa-871678266/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/laiswll/)
 
-
+<br>
+<br>
+<br>
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
