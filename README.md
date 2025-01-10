@@ -5,7 +5,7 @@
  <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF00F6&center=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Lais!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF00F6&center=true&random=false&width=400&lines=Ol%C3%A1%2C+eu+sou+Lais!)](https://git.io/typing-svg)
 <!-- Presentation -->
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza. Atualmente trabalho como QA. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
