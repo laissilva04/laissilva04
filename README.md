@@ -13,7 +13,10 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza
 </div>
 
 <!-- Image -->
-<img align="right" alt="" height="190px" src="./src/study.gif"> 
+<img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" align="right" alt="" height="190px">
+
+
+
 
 <!-- Contact -->
 <h3 align="left">Conecte comigo!</h3>
