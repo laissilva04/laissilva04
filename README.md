@@ -19,7 +19,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza
 
 
 <!-- Contact -->
-<h3 align="left">Conecte comigo!</h3>
+<h3 align="left">Conexões</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:laissilva@edu.unifor.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](http://linkedin.com/in/lais-barbosa-871678266/)
@@ -28,7 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza
 <br>
 <br>
 <br>
-<h3>* GitHub Stats *</h3>
+<h3> GitHub Stats </h3>
 <div style="text-align: center;" align="center">
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laissilva04&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
