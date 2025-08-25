@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=true&random=false&width=400&lines=Ol%C3%A1%2C+eu+sou+Lais!;Bem+vindo+ao+meu+Perfil)](https://git.io/typing-svg)
 <!-- Presentation -->
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza. Atualmente trabalho como QA. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza. Atualmente trabalho como QA e Desenvolvedora. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 #
 </div>
