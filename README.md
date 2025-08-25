@@ -28,14 +28,15 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza
 <br>
 <br>
 <br>
-<h3> GitHub Stats </h3>
-<div style="text-align: center;" align="center">
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laissilva04&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+<h3 align="center">📊 GitHub Stats</h3>
 
-  <a href="https://github.com/laissilva04/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laissilva04&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Linguagens mais utilizadas">
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laissilva04&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff&icon_color=2E8B57" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissilva04&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff&langs_count=6&hide=html,css" alt="Most Used Languages" />
+</div>
+
+
 </div>
 
 <!-- Dropdown -->
