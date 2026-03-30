@@ -28,13 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (UNIFOR) e desenvolvedora fo
 <br>
 <br>
 <br>
-<h3>GitHub Stats</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laissilva04&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff&icon_color=2E8B57" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissilva04&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff&langs_count=6&hide=html,css" alt="Most Used Languages" />
-</div>
 
 
 </div>
