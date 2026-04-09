@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22D3EE&center=true&random=false&width=400&lines=Ol%C3%A1%2C+eu+sou+Lais!;Bem+vindo+ao+meu+Perfil)](https://git.io/typing-svg)
 <!-- Presentation -->
-Estudante de Análise e Desenvolvimento de Sistemas (UNIFOR) e desenvolvedora focada em construir soluções tecnológicas completas. Tenho experiência prática no desenvolvimento de interfaces dinâmicas com React e na construção de back-ends eficientes com Node.js e Java. Como QA, elevo a qualidade dos projetos com foco em testes e automações, utilizando ferramentas como o Robot Framework e Playwright.
+Graduada em Análise e Desenvolvimento de Sistemas (UNIFOR) e desenvolvedora focada em construir soluções tecnológicas completas. Tenho experiência prática no desenvolvimento de interfaces dinâmicas com React e na construção de back-ends eficientes com Node.js e Java. Como QA, elevo a qualidade dos projetos com foco em testes e automações, utilizando ferramentas como o Robot Framework e Playwright.
 
 #
 </div>
